@@ -1,0 +1,8 @@
+
+{
+    "core.server.url" : "http://localhost:8888",
+    "core.server.token" : "<API TOKEN>"
+
+
+}
+
